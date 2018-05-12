@@ -1,0 +1,44 @@
+_repo: Posthumous-Works-of-the-Author-of-A-Vindication-of-the-Rights-of-Woman_23233
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wollstonecraft, Mary
+    aliases:
+    - Godwin, Mary Wollstonecraft
+    - Cresswick, Mr.
+    birthdate: 1759
+    deathdate: 1797
+    gutenberg_agent_id: '84'
+    url: http://www.gutenberg.org/2009/agents/84
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Wollstonecraft
+  editor:
+    agent_name: Godwin, William
+    alias: Baldwin, Edward
+    birthdate: 1756
+    deathdate: 1836
+    gutenberg_agent_id: '380'
+    url: http://www.gutenberg.org/2009/agents/380
+    wikipedia: http://en.wikipedia.org/wiki/William_Godwin
+description: Vol. 1-2. The wrongs of woman; or, Maria, a fragment -- Vol. 3-4. Letters
+  and miscellaneous pieces
+gutenberg_issued: '2007-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23233'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Feminism -- Literary collections'
+- !lcsh 'Women''s rights -- Early works to 1800'
+- !lcsh 'Feminists -- Great Britain -- Correspondence'
+- !lcsh 'Authors, English -- 18th century -- Correspondence'
+- !lcsh 'Wollstonecraft, Mary, 1759-1797 -- Correspondence'
+- !lcc 'PR'
+- !lcsh 'Women -- Social and moral questions -- Early works to 1800'
+title: Posthumous Works of the Author of A Vindication of the Rights of Woman
+url: http://www.gutenberg.org/ebooks/23233
